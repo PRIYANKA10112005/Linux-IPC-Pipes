@@ -1,9 +1,9 @@
 # Linux-IPC--Pipes
 Linux-IPC-Pipes
 
-Name: GAUTHAM KRISHNA S
+Name: PRIYANKA P
 
-Regno: 212223240036
+Regno: 212224230212
 
 # Ex03-Linux IPC - Pipes
 
